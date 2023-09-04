@@ -1,0 +1,46 @@
+html{
+    box-sizing: border-box;
+    background-color: rgb(218, 222, 228);
+}
+
+body{
+    font-size: 18px; /* 1 rem =10px */
+    font-family: 'Titillium Web', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 1cap;
+    text-align: center;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+nav{
+    border-bottom: 1px solid #ffffff;
+    padding: 1rem 0;
+}
+
+h2{
+    font-size: 2rem;
+    font-weight: 520;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+}
+
+footer{
+    border-top: 1px solid #ffffff;
+    padding: 1rem 0;
+    font-size: 15px;
+    line-height: 0.5;
+}
+
+li{
+    margin: 15px 0;
+  }
